@@ -75,7 +75,7 @@ ESP32 · Africa's Talking USSD
 
 **Industries covered:** Restaurant · Salon · Clinic · Laundry · Bridal · Portfolio
 
-🔗 [solomantalgo.com](https://solomantalgo.com)
+🔗 [See My Collections](https://solomantalgo.com/links)
 
 ---
 
