@@ -93,7 +93,7 @@ I'm always open to interesting projects, collaborations, or just a good conversa
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-solomantalgo.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://solomantalgo.com)
 [![Email](https://img.shields.io/badge/Email-kmantalgosolo@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:kmantalgosolo@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0775224728-green?style=flat&logo=whatsapp&logoColor=white)]([https://wa.me/256775224728?text=Hello%20Solomon,%20I%20came%20from%20your%20GitHub%20profile.%20I'm%20interested%20in%20working%20with%20you.])
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0775224728-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/256775224728?text=Hello%20Solomon,%20I%20came%20from%20your%20GitHub%20profile.%20I'm%20interested%20in%20working%20with%20you.)
 
 ---
 
