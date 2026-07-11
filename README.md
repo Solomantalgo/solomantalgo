@@ -9,7 +9,7 @@ I love building things that actually work for real people. Not just demo project
 ## 🔨 What I'm Working On
 
 - 🌍 Running **Solomantalgo Web Design** — helping Kampala businesses get online
-- ⚡ Completed my **Automated Yaka Token Entry System** — IoT + fullstack final year project
+- ⚡ Completed our **Automated Yaka Token Entry System** — IoT + fullstack final year project
 - 💼 Open to **IT Officer, Software Support, and Web Development** roles in Kampala
 
 ---
