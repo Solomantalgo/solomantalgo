@@ -81,10 +81,9 @@ ESP32 · Africa's Talking USSD
 
 ## 📊 GitHub Stats
 
-![Solomon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solomantalgo&show_icons=true&theme=dark&hide_border=true)
+![Solomon's GitHub Stats](https://github-readme-stats-solomonkisense-15.vercel.app/api?username=Solomantalgo&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomantalgo&layout=compact&theme=dark&hide_border=true)
-
+![Top Languages](https://github-readme-stats-solomonkisense-15.vercel.app/api/top-langs/?username=Solomantalgo&layout=compact&theme=dark&hide_border=true)
 ---
 
 ## 📫 Let's Connect
