@@ -58,6 +58,7 @@ ESP32 · Africa's Talking USSD
 - Built full Node.js backend with HTTP polling, SQLite database, and REST API
 - Integrated Africa's Talking USSD for token delivery
 - Led firmware development in a five-member team
+[GitHub](https://github.com/Solomantalgo/ussd-electricity.git)
 
 ---
 
