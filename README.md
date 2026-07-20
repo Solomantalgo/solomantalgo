@@ -1,6 +1,6 @@
 # Hey, I'm Solomon 👋🏽
 
-I'm a final-year IT student at Kampala International University and founder of **[Solomantalgo Web Design](https://solomantalgo.com)** — I build websites and digital solutions for small businesses across Kampala, Uganda.
+I am a BSc Information Technology graduate from Kampala International University, attaining my  degree in November 2026 and founder of **[Solomantalgo Web Design](https://solomantalgo.com)** — I build websites and digital solutions for small businesses across Kampala, Uganda.
 
 I love building things that actually work for real people. Not just demo projects — real clients, real problems, real solutions.
 
