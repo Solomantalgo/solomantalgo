@@ -1,6 +1,6 @@
 # Hey, I'm Solomon 👋🏽
 
-I am a BSc Information Technology graduate from Kampala International University, attaining my  degree in November 2026 and founder of **[Solomantalgo Web Design](https://solomantalgo.com)** — I build websites and digital solutions for small businesses across Kampala, Uganda.
+I am a BSc Information Technology graduate from Kampala International University, attaining my  degree in November 2026 and founder of **[Solomantalgo Web Design](https://share.google/59wni8WWTpbfQiPu8)** — I build websites and digital solutions for small businesses across Kampala, Uganda.
 
 I love building things that actually work for real people. Not just demo projects — real clients, real problems, real solutions.
 
@@ -77,7 +77,7 @@ ESP32 · Africa's Talking USSD
 
 **Industries covered:** Restaurant · Salon · Clinic · Laundry · Bridal · Portfolio
 
-🔗 [See My Collections](https://solomantalgo.com/links)
+🔗 [Solomantalgo.com](https://solomantalgo.com)
 
 ---
 
